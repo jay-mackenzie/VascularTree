@@ -1,0 +1,12 @@
+\begin{dmath}
+ i\omega\left(0\right) + \pardif{}{x} \left(Q_0 C_0  \right)= \frac{1}{\Pe}\pardiff{}{x}\left(A_0 C_0 \right) 
+\end{dmath}
+\begin{dmath}
+ i\omega\left(0 + C_1 A_0 \right) + \pardif{}{x} \left(Q_0 C_1  + Q_1 C_0  \right)= \frac{1}{\Pe}\pardiff{}{x}\left(A_0 C_1  + A_1 C_0 \right) 
+\end{dmath}
+\begin{dmath}
+ i\omega\left(0 + C_1 A_1  + 2 C_2 A_0 \right) + \pardif{}{x} \left(Q_0 C_2  + Q_1 C_1  + Q_2 C_0  \right)= \frac{1}{\Pe}\pardiff{}{x}\left(A_0 C_2  + A_1 C_1  + A_2 C_0 \right) 
+\end{dmath}
+\begin{dmath}
+ i\omega\left(0 + C_1 A_2  + 2 C_2 A_1  + 3 C_3 A_0 \right) + \pardif{}{x} \left(Q_0 C_3  + Q_1 C_2  + Q_2 C_1  + Q_3 C_0  \right)= \frac{1}{\Pe}\pardiff{}{x}\left(A_0 C_3  + A_1 C_2  + A_2 C_1  + A_3 C_0 \right) 
+\end{dmath}
